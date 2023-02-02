@@ -1,10 +1,10 @@
-Problem 0: A computer Solutions
+//Problem 0: A computer Solutions
 
 
-Here is a Python code that performs the task of an assembler for the given instruction set:
+//QUE 1
+//The assemble function takes in a string representation of the text assembly program and returns a list of 16-bit numbers representing the encoded program. The encode_instruction function takes an individual instruction and returns its encoded form as a 16-bit number.
+//Here is a Python code that performs the task of an assembler for the given instruction set:
 
-
-The assemble function takes in a string representation of the text assembly program and returns a list of 16-bit numbers representing the encoded program. The encode_instruction function takes an individual instruction and returns its encoded form as a 16-bit number.
 
 def encode_instruction(instruction):
     opcode = {
